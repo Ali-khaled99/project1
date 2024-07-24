@@ -1,0 +1,17 @@
+.container{
+    width: 60%;
+    margin: auto;
+}
+.navbar{
+    background-color: #2c3e50;
+}
+.nav-item .nav-link:hover, .nav-item .nav-link.btn.btn-success:hover{
+    color: #1abc9a;
+}
+
+.nav-item .nav-link,.nav-item .nav-link.btn.btn-success{
+    color: white;
+}
+.navbar button.navbar-toggler{
+    background-color: transparent;
+}
